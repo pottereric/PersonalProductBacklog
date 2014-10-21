@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Personal Product Backlog</title>
+	<link rel="stylesheet" type="text/css" href="content/site.css">
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+	<script type="text/javascript" src="scripts/backlog.js"></script>
+</head>
+<body>
+	This is the backlog
+</body>
+</html>
